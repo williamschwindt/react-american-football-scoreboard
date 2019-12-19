@@ -25,7 +25,6 @@ function App() {
     setAwayScore(awayScore + 3);
   }
 
-
   return (
     <div className="container">
       <section className="scoreboard">
